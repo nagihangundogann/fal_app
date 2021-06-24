@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "991951713308",
+    "project_id": "fall-21541",
+    "storage_bucket": "fall-21541.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:991951713308:android:3c10a00bce9f76478a5bd9",
+        "android_client_info": {
+          "package_name": "com.example.fal_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "991951713308-uer5lhub6df7457bvgnbmfml7cb8gm2j.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.fal_app",
+            "certificate_hash": "2467e0fa4c19fa9ec0321d29a601019c7e0f052f"
+          }
+        },
+        {
+          "client_id": "991951713308-uctctcc0qrhdso7bv139sp9n6461svc0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAiTuVZFB15inKmf2VNmYOy_sib7ZQl4Ik"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "991951713308-uctctcc0qrhdso7bv139sp9n6461svc0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
